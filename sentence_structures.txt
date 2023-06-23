@@ -1,0 +1,196 @@
+    Pronoun + Verb + Noun
+    Pronoun + Verb + Adjective + Noun
+    Pronoun + Verb + Adverb + Adjective + Noun
+    Pronoun + Verb + Preposition + Article + Noun
+
+    Pronoun + Verb + Adverb + Noun
+
+    Pronoun + Verb + Numeral + Noun
+
+    Pronoun + Verb + Conjunction + Verb + Noun
+
+    Pronoun + Verb + Interjection
+
+    Pronoun + Verb + Adjective
+
+    Pronoun + Verb + Preposition + Noun
+
+    Article + Noun + Verb
+
+    Article + Noun + Verb + Adjective
+
+    Article + Noun + Verb + Adverb + Adjective
+
+    Article + Noun + Verb + Preposition + Article + Noun
+
+    Article + Noun + Verb + Adverb + Noun
+
+    Article + Noun + Verb + Numeral + Noun
+
+    Article + Noun + Verb + Conjunction + Verb + Noun
+
+    Article + Noun + Verb + Interjection
+
+    Article + Noun + Verb + Adjective
+
+    Article + Noun + Verb + Preposition + Noun
+
+    Adjective + Noun + Verb
+
+    Adjective + Noun + Verb + Adjective
+
+    Adjective + Noun + Verb + Adverb + Adjective
+
+    Adjective + Noun + Verb + Preposition + Article + Noun
+
+    Adjective + Noun + Verb + Adverb + Noun
+
+    Adjective + Noun + Verb + Numeral + Noun
+
+    Adjective + Noun + Verb + Conjunction + Verb + Noun
+
+    Adjective + Noun + Verb + Interjection
+
+    Adjective + Noun + Verb + Adjective
+
+    Adjective + Noun + Verb + Preposition + Noun
+
+    Noun + Verb
+
+    Noun + Verb + Adjective
+
+    Noun + Verb + Adverb + Adjective
+
+    Noun + Verb + Preposition + Article + Noun
+
+    Noun + Verb + Adverb + Noun
+
+    Noun + Verb + Numeral + Noun
+
+    Noun + Verb + Conjunction + Verb + Noun
+
+    Noun + Verb + Interjection
+
+    Noun + Verb + Adjective
+
+    Noun + Verb + Preposition + Noun
+
+    Adverb + Adjective + Noun + Verb
+
+    Adverb + Adjective + Noun + Verb + Adjective
+
+    Adverb + Adjective + Noun + Verb + Adverb + Adjective
+
+    Adverb + Adjective + Noun + Verb + Preposition + Article + Noun
+
+    Adverb + Adjective + Noun + Verb + Adverb + Noun
+
+    Adverb + Adjective + Noun + Verb + Numeral + Noun
+
+    Adverb + Adjective + Noun + Verb + Conjunction + Verb + Noun
+
+    Adverb + Adjective + Noun + Verb + Interjection
+
+    Adverb + Adjective + Noun + Verb + Adjective
+
+    Adverb + Adjective + Noun + Verb + Preposition + Noun
+
+    Preposition + Article + Noun + Verb
+
+    Preposition + Article + Noun + Verb + Adjective
+
+    Preposition + Article + Noun + Verb + Adverb + Adjective
+
+    Preposition + Article + Noun + Verb + Preposition + Article + Noun
+
+    Preposition + Article + Noun + Verb + Adverb + Noun
+
+    Preposition + Article + Noun + Verb + Numeral + Noun
+
+    Preposition + Article + Noun + Verb + Conjunction + Verb + Noun
+
+    Preposition + Article + Noun + Verb + Interjection
+
+    Preposition + Article + Noun + Verb + Adjective
+
+    Preposition + Article + Noun + Verb + Preposition + Noun
+
+    Adverb + Noun + Verb
+
+    Adverb + Noun + Verb + Adjective
+
+    Adverb + Noun + Verb + Adverb + Adjective
+
+    Adverb + Noun + Verb + Preposition + Article + Noun
+
+    Adverb + Noun + Verb + Adverb + Noun
+
+    Adverb + Noun + Verb + Numeral + Noun
+
+    Adverb + Noun + Verb + Conjunction + Verb + Noun
+
+    Adverb + Noun + Verb + Interjection
+
+    Adverb + Noun + Verb + Adjective
+
+    Adverb + Noun + Verb + Preposition + Noun
+
+    Numeral + Noun + Verb
+
+    Numeral + Noun + Verb + Adjective
+
+    Numeral + Noun + Verb + Adverb + Adjective
+
+    Numeral + Noun + Verb + Preposition + Article + Noun
+
+    Numeral + Noun + Verb + Adverb + Noun
+
+    Numeral + Noun + Verb + Numeral + Noun
+
+    Numeral + Noun + Verb + Conjunction + Verb + Noun
+
+    Numeral + Noun + Verb + Interjection
+
+    Numeral + Noun + Verb + Adjective
+
+    Numeral + Noun + Verb + Preposition + Noun
+
+    Interjection + Verb
+
+    Interjection + Verb + Adjective
+
+    Interjection + Verb + Adverb + Adjective
+
+    Interjection + Verb + Preposition + Article + Noun
+
+    Interjection + Verb + Adverb + Noun
+
+    Interjection + Verb + Numeral + Noun
+
+    Interjection + Verb + Conjunction + Verb + Noun
+
+    Interjection + Verb + Interjection
+
+    Interjection + Verb + Adjective
+
+    Interjection + Verb + Preposition + Noun
+
+    Conjunction + Verb + Noun
+
+    Conjunction + Verb + Noun + Adjective
+
+    Conjunction + Verb + Noun + Adverb + Adjective
+
+    Conjunction + Verb + Noun + Preposition + Article + Noun
+
+    Conjunction + Verb + Noun + Adverb + Noun
+
+    Conjunction + Verb + Noun + Numeral + Noun
+
+    Conjunction + Verb + Noun + Conjunction + Verb + Noun
+
+    Conjunction + Verb + Noun + Interjection
+
+    Conjunction + Verb + Noun + Adjective
+
+    Conjunction + Verb + Noun + Preposition + Noun
